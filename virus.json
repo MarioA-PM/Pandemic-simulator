@@ -1,0 +1,9 @@
+[
+{
+"Radius": 0.05,
+"Contagious_prob": 0.1,
+"Death_rate": 0.009,
+"Initial_population": 1000,
+"Days_to_heal": 8
+}
+]
